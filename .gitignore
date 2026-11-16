@@ -1,0 +1,7 @@
+*.so
+*.dylib
+*.dll
+__pycache__/
+.venv/
+.vscode/
+.DS_Store
